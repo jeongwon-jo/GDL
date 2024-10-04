@@ -685,6 +685,7 @@ h1.menu_title {
   flex-wrap: wrap;
   gap: 20px;
   margin-top: 80px;
+  row-gap: 56px;
 }
 
 .member_list .member_item {
@@ -803,6 +804,7 @@ h1.menu_title {
   .member_list {
     margin-top: 32px;
     gap: 8px;
+    row-gap: 32px;
   }
 
   .member_list .member_item {
